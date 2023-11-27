@@ -20,8 +20,5 @@ Welcome to WeatherPrediction, a cutting-edge and user-friendly weather predictio
 - Switch between hourly and weekly forecasts for detailed weather information.
 - Explore the highlight cards to learn more about today's weather insights.
 
-## Support
-If you encounter any issues or have suggestions, [open an issue](https://github.com/rv-chauhdary/Weather-Prediction/issues).
-
 ## About
 WeatherPrediction is the result of a passion for creating user-friendly applications that empower individuals to make informed decisions. 
